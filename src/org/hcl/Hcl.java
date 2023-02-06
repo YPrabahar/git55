@@ -5,5 +5,8 @@ public class Hcl {
 		System.out.println("Add");
 
 	}
+	public void sub() {
+System.out.println("Sub");
+	}
 
 }
